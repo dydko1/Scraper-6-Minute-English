@@ -90,7 +90,7 @@ public class DB {
 			this.JDBC_DRIVER = "com.mysql.jdbc.Driver";
 			this.DB_URL = "jdbc:mysql://mysql.agh.edu.pl/midyduch"; // ?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
 			this.USER = "user";
-			this.PASS = "password";
+			this.PASS = "**password**";
 		} else if (this.dbmsType.equals("PostgreSQL") && !isParameters) {
 			this.JDBC_DRIVER = "org.postgresql.Driver";
 			this.DB_URL = "jdbc:postgresql://localhost:5432/miro";
