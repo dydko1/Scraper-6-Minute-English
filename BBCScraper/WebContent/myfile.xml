@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE BBC-6-minute-english PUBLIC "BBC SYSTEM" "myfile.dtd">
 <BBC-6-minute-english>
+<EpisodeId id="254">
+<Title>Coffee cups: Do you use your own?</Title>
+<Keynote>Does recycling coffee cups make a difference?</Keynote>
+<Episode>Episode 190801 / 01 Aug 2019</Episode>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190801</LessonUrl>
+<ImgUrl>http://ichef.bbci.co.uk/images/ic/976xn/p07bssk1.jpg</ImgUrl>
+<Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190801_6min_english_coffee_cups_download.mp3</Mp3Url>
+<PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190801_6min_english_coffee_cups.pdf</PdfUrl>
+</EpisodeId>
+<EpisodeId id="253">
+<Title>Are you at risk from online fraud?</Title>
+<Keynote>Falling for fraud</Keynote>
+<Episode>Episode 190725 / 25 Jul 2019</Episode>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190725</LessonUrl>
+<ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07gly9f.jpg</ImgUrl>
+<Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190725_6_minute_english_fraud_download.mp3</Mp3Url>
+<PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190725_6_minute_english_fraud.pdf</PdfUrl>
+</EpisodeId>
+<EpisodeId id="252">
+<Title>Is shame always bad?</Title>
+<Keynote>Why is 'shame' the emotion of now?</Keynote>
+<Episode>Episode 190718 / 18 Jul 2019</Episode>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190718</LessonUrl>
+<ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07g8th0.jpg</ImgUrl>
+<Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190718_6min_english_shame_download.mp3</Mp3Url>
+<PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190718_6min_english_shame.pdf</PdfUrl>
+</EpisodeId>
 <EpisodeId id="251">
 <Title>Do you care if you're poor when you're old?</Title>
 <Keynote>Are you planning for a comfortable retirement?</Keynote>
 <Episode>Episode 190711 / 11 Jul 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190711</LessonUrl>
-<ImgUrl>http://ichef.bbci.co.uk/images/ic/976xn/p07d0gh5.jpg</ImgUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190711</LessonUrl>
+<ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07d0gh5.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190711_6min_english_money_and_lifestyle_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190711_6min_english_money_and_lifestyle.pdf</PdfUrl>
 </EpisodeId>
@@ -14,268 +41,268 @@
 <Title>Women’s football</Title>
 <Keynote>FIFA Women's World Cup 2019</Keynote>
 <Episode>Episode 190704 / 04 Jul 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190704</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190704</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07fpg5b.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190704_6_minute_english_womens_football_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190704_6_minute_english_womans_football.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="249">
+<EpisodeId id="248">
 <Title>The business of eSports</Title>
 <Keynote>Game on for eSports!</Keynote>
 <Episode>Episode 190627 / 27 Jun 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190627</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190627</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07f6j63.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190627_6_minute_english_esports_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190627_6min_english_esports.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="248">
+<EpisodeId id="247">
 <Title>Can death metal bring you joy?</Title>
 <Keynote>Does fast, loud, aggressive, guitar-based music inspire violence or happiness?</Keynote>
 <Episode>Episode 190620 / 20 Jun 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190620</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190620</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07b0dd0.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190620_6min_english_death_metal_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190620_6min_english_death_metal.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="247">
+<EpisodeId id="246">
 <Title>Is talking on the phone embarrassing?</Title>
 <Keynote>Is talking on the telephone embarrassing?</Keynote>
 <Episode>Episode 190613 / 13 Jun 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190613</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190613</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07cjxgn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/le_190613_6min_phone_embarrassing_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190613_6min_phone_embarrassing.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="246">
+<EpisodeId id="245">
 <Title>Women and motorbikes</Title>
 <Keynote>Why do we associate motorcycles with men?</Keynote>
 <Episode>Episode 190606 / 06 Jun 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190606</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190606</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0765tt1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190606_6min_english_motorcycles_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190606_6min_english_motorcycles.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="245">
+<EpisodeId id="244">
 <Title>Vampire shoppers</Title>
 <Keynote>Shopping online in the middle of the night is becoming popular but, is it always a good idea?</Keynote>
 <Episode>Episode 190530 / 30 May 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190530</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190530</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p075nd2j.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190530_6min_english_vampire_shoppers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190530_6min_english_vampire_shoppers.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="244">
+<EpisodeId id="243">
 <Title>What to do when you can't sleep</Title>
 <Keynote>Is there anything more frustrating?</Keynote>
 <Episode>Episode 190523 / 23 May 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190523</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190523</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07b2zrn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190523_6min_when_you_cant_sleep_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190523_6min_when_you_cant_sleep.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="243">
+<EpisodeId id="242">
 <Title>Being slim: Is it in our genes?</Title>
 <Keynote>Studies have shown that about 40% of the variation in a person's weight is influenced by genes.</Keynote>
 <Episode>Episode 190516 / 16 May 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190516</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190516</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0759jv6.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190516_6min_english_slimness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190516_6min_english_slimness.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="242">
+<EpisodeId id="241">
 <Title>Can we trust a smart speaker?</Title>
 <Keynote>Do smart speakers make life easier or spy on you?</Keynote>
 <Episode>Episode 190509 / 09 May 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190509</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190509</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p072zj58.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190509_6min_english_smart_speakers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190509_6min_english_smart_speakers.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="241">
+<EpisodeId id="240">
 <Title>Evolution and anxiety</Title>
 <Keynote>Has anxiety been good for humans?</Keynote>
 <Episode>Episode 190502 / 02 May 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190502</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190502</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p074gzql.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190502_6min_english_evolution_and_mental_health_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190502_6min_english_evolution_and_mental_health.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="240">
+<EpisodeId id="239">
 <Title>The rise in popularity of the comfy shoe</Title>
 <Keynote>Everyone's wearing them!</Keynote>
 <Episode>Episode 190425 / 25 Apr 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190425</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190425</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p071lclk.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190425_6min_comfy_footwear_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190425_6min_comfy_footwear.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="239">
+<EpisodeId id="238">
 <Title>Rabbits: cuddly friends or cunning tricksters?</Title>
 <Keynote>Neil and Rob talk about the animal symbol of Easter in literature and in the real world.</Keynote>
 <Episode>Episode 190418 / 18 Apr 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190418</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190418</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p071yyhn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190418_6min_english_rabbits_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190418_6min_english_rabbit.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="238">
+<EpisodeId id="237">
 <Title>The decluttering trend</Title>
 <Keynote>Is it time you decluttered?</Keynote>
 <Episode>Episode 190411 / 11 Apr 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190411</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190411</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p07271s6.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190411_6min_the_decluttering_trend_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190411_6min_the_decluttering_trend.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="237">
+<EpisodeId id="236">
 <Title>Why do we feel awkward?</Title>
 <Keynote>Do you know that cringey feeling?</Keynote>
 <Episode>Episode 190404 / 04 Apr 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190404</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190404</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p070rp20.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190404_6min_awkward_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190404_6min_awkward.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="236">
+<EpisodeId id="235">
 <Title>Side hustles</Title>
 <Keynote>Do you have a second job?</Keynote>
 <Episode>Episode 190328 / 28 Mar 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190328</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190328</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p071ghm4.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190328_6min_english_side_hustles_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190328_6min_english_side_hustles.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="235">
+<EpisodeId id="234">
 <Title>How your eyes predict your personality</Title>
 <Keynote>Be careful where you look!</Keynote>
 <Episode>Episode 190321 / 21 Mar 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190321</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190321</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0707z97.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190321_6min_eyes_personality_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190321_6min_eyes_personality.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="234">
+<EpisodeId id="233">
 <Title>Debating veganism: How to change someone's opinion</Title>
 <Keynote>Debating veganism</Keynote>
 <Episode>Episode 190314 / 14 Mar 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190314</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190314</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06zq5wd.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190314_6_min_english_veganism_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190314_6_min_english_debating_veganism.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="233">
+<EpisodeId id="232">
 <Title>What's on your to-do list?</Title>
 <Keynote>How much do you enjoy doing housework and paying bills?</Keynote>
 <Episode>Episode 190307 / 07 Mar 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190307</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190307</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p072v6bw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190307_6min_english_life_admin_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190307_6min_english_life_admin.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="232">
+<EpisodeId id="231">
 <Title>Unicorns</Title>
 <Keynote>Why are these magical creatures back in fashion?</Keynote>
 <Episode>Episode 190228 / 28 Feb 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190228</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190228</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06zdc4h.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190228_6min_english_unicorns_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190228_6min_english_unicorns.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="231">
+<EpisodeId id="230">
 <Title>Are food allergies more common now?</Title>
 <Keynote>Are you allergic to anything?</Keynote>
 <Episode>Episode 190221 / 21 Feb 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190221</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190221</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06z2qr3.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190221_6min_food_allergies_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190221_6min_food_allergies.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="230">
+<EpisodeId id="229">
 <Title>Dating apps</Title>
 <Keynote>How effective are dating apps when you're looking for a romantic partner?</Keynote>
 <Episode>Episode 190214 / 14 Feb 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190214</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190214</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06ynn45.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190214_6min_english_dating_app_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190214_6min_english_dating_apps.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="229">
+<EpisodeId id="228">
 <Title>High heels</Title>
 <Keynote>What's so special about these uncomfortable shoes?</Keynote>
 <Episode>Episode 190207 / 07 Feb 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190207</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190207</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06ybnz1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190207_6min_english_high_heels_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190207_6min_english_high_heels.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="228">
+<EpisodeId id="227">
 <Title>Improving your memory</Title>
 <Keynote>How good is your memory?</Keynote>
 <Episode>Episode 190131 / 31 Jan 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190131</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190131</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06xcf2d.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190131_6min_english_memory_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190131_6min_english_memory.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="227">
+<EpisodeId id="226">
 <Title>Concepts of happiness</Title>
 <Keynote>What makes you happy?</Keynote>
 <Episode>Episode 190124 / 24 Jan 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190124</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190124</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06x7cfk.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190124_6min_english_happiness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190124_6min_english_happiness.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="226">
+<EpisodeId id="225">
 <Title>Is music getting faster?</Title>
 <Keynote>New technology might be putting an end to instrumental introductions to pop songs</Keynote>
 <Episode>Episode 190117 / 17 Jan 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190117</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190117</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06xtvqd.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190117_6min_english_faster_music_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190117_6min_english_faster_music.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="225">
+<EpisodeId id="224">
 <Title>The benefits of schadenfreude</Title>
 <Keynote>What's the positive side of feeling good when bad things happen to people you envy?</Keynote>
 <Episode>Episode 190110 / 10 Jan 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190110</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190110</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06w9kbp.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190110_6min_english_schadenfreude_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190110_6min_english_schadenfreude.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="224">
+<EpisodeId id="223">
 <Title>Could you be flexitarian?</Title>
 <Keynote>Would you all but give up eating meat to save the environment?</Keynote>
 <Episode>Episode 190103 / 03 Jan 2019</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-190103</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190103</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06xpxnk.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/190103_6min_english_flexitarianism_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/190103_6min_english_flexitarianism.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="223">
+<EpisodeId id="222">
 <Title>Michelle Obama on empowerment</Title>
 <Keynote>The former US First Lady and her mission to inspire women</Keynote>
 <Episode>Episode 181227 / 27 Dec 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181227</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181227</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06vht93.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181227_6min_english_michelle_obama_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181227_6min_english_michelle_obama.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="222">
+<EpisodeId id="221">
 <Title>Why we push buttons</Title>
 <Keynote>Are you a button presser?</Keynote>
 <Episode>Episode 181220 / 20 Dec 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181220</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181220</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06tysdh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181220_6_min_eng_buttons_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181220_6min_eng_buttons.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="221">
+<EpisodeId id="249">
 <Title>The teenage brain</Title>
 <Keynote>Inside a teenager's head</Keynote>
 <Episode>Episode 181213 / 13 Dec 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181213</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181213</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06vgj4l.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181213_6_min_eng_teenage_brain_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181213_6min_english_teenage_brain.pdf</PdfUrl>
@@ -284,7 +311,7 @@
 <Title>Why does 'x' mean 'kiss'?</Title>
 <Keynote>What does 'x' really mean?</Keynote>
 <Episode>Episode 181206 / 06 Dec 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181206</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181206</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06t5btt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181206_6_min_english_x_for_kisses_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181206_6min_english_xforkiss.pdf</PdfUrl>
@@ -293,7 +320,7 @@
 <Title>Photo-friendly food</Title>
 <Keynote>Making good-looking food</Keynote>
 <Episode>Episode 181129 / 29 Nov 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181129</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181129</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06sjy18.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181129_6_min_eng_food_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181129_6min_eng_photo_friendly_food.pdf</PdfUrl>
@@ -302,7 +329,7 @@
 <Title>The smell of coffee</Title>
 <Keynote>How important is the smell of coffee?</Keynote>
 <Episode>Episode 181122 / 22 Nov 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181122</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181122</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06sklk6.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181122_6min_coffee_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181122_6min_coffee.pdf</PdfUrl>
@@ -311,7 +338,7 @@
 <Title>What chickens can teach us about hierarchies</Title>
 <Keynote>What can chickens teach us about organisation?</Keynote>
 <Episode>Episode 181115 / 09 Nov 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181115</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181115</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06r9628.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181115_6min_hierarchies_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181115_6min_hierarchies.pdf</PdfUrl>
@@ -320,7 +347,7 @@
 <Title>Loneliness</Title>
 <Keynote>Can people feel lonely in a crowded place?</Keynote>
 <Episode>Episode 181108 / 08 Nov 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181108</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181108</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06skk4t.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181108_6min_english_loneliness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181108_6min_english_loneliness.pdf</PdfUrl>
@@ -329,7 +356,7 @@
 <Title>Objectification</Title>
 <Keynote>Neil and Sam discuss objectification. What is it and is there really a 'perfect body'?</Keynote>
 <Episode>Episode 181101 / 01 Nov 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181101</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181101</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06qh7dz.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181101_6min_english_objectification_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181101_6min_english_objectification.pdf</PdfUrl>
@@ -338,7 +365,7 @@
 <Title>How creative should we be?</Title>
 <Keynote>Rob and Neil discuss the must-have skill of the future</Keynote>
 <Episode>Episode 181025 / 25 Oct 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181025</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181025</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06nxgdh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181025_6min_english_creativity_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181025_6min_english_creativity.pdf</PdfUrl>
@@ -347,7 +374,7 @@
 <Title>What is scumbro?</Title>
 <Keynote>Paying a lot to look a mess!</Keynote>
 <Episode>Episode 181018 / 18 Oct 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181018</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181018</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06n8ncw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181018_6_min_english_scumbro_DOWNLOAD.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181018_6min_english_scumbro.pdf</PdfUrl>
@@ -356,7 +383,7 @@
 <Title>Curbing our plastic addiction</Title>
 <Keynote>Could we live without plastic? We discuss the issues and the progress that's being made.</Keynote>
 <Episode>Episode 181011 / 11 Oct 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181011</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181011</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06p8rhq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181011_6min_english_plastic_addiction_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181011_6min_english_plastic_addiction.pdf</PdfUrl>
@@ -365,7 +392,7 @@
 <Title>Describing Generation Z</Title>
 <Keynote>Have you grown up with social media?</Keynote>
 <Episode>Episode 181004 / 04 Oct 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-181004</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-181004</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06mds74.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/181004_6_min_english_gen_z_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/181004_6min_gen_z.pdf</PdfUrl>
@@ -374,7 +401,7 @@
 <Title>High-vis fashion</Title>
 <Keynote>A bright new fashion trend</Keynote>
 <Episode>Episode 180927 / 27 Sep 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180927</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180927</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06lgzyd.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180927_6min_english_high_vis_fashion_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180927_6min_english_high_vis_fashion.pdf</PdfUrl>
@@ -383,7 +410,7 @@
 <Title>Snowflakes and taking offence</Title>
 <Keynote>The word snowflake has taken on a new meaning. We discuss this new term without causing offence!</Keynote>
 <Episode>Episode 180920 / 20 Sep 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180920</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180920</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06ks1kx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180920_6_min_english_offence_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180920_6min_taking_offence.pdf</PdfUrl>
@@ -392,7 +419,7 @@
 <Title>Dating apps: How our brains react</Title>
 <Keynote>What does our brain tell us to do when faced with a dating app?</Keynote>
 <Episode>Episode 180913 / 13 Sep 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180913</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180913</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06k5k65.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180913_6min_english_dating_apps_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180913_6min_english_dating_apps.pdf</PdfUrl>
@@ -401,7 +428,7 @@
 <Title>Beating a sedentary lifestyle</Title>
 <Keynote>Do you lead a sedentary lifestyle? Learn what made people more active in Finland.</Keynote>
 <Episode>Episode 180906 / 06 Sep 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180906</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180906</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06p8rpk.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180906_6min_english_sedentary_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180906_6min_english_sedentary.pdf</PdfUrl>
@@ -410,7 +437,7 @@
 <Title>Street food: Why is it becoming so popular?</Title>
 <Keynote>Why is street food becoming more popular in the UK?</Keynote>
 <Episode>Episode 180830 / 30 Aug 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180830</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180830</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06gy2db.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180830_6min_english_street_food_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180830_6min_street_food.pdf</PdfUrl>
@@ -419,7 +446,7 @@
 <Title>Are smartphones killing cameras?</Title>
 <Keynote>Do people still buy cameras when everybody is keen on selfies?</Keynote>
 <Episode>Episode 180823 / 10 Aug 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180823</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180823</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06h3sjl.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180823_6min_english_cameras_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180823_6min_english_cameras.pdf</PdfUrl>
@@ -428,7 +455,7 @@
 <Title>Fathers</Title>
 <Keynote>Why do men want to be fathers?</Keynote>
 <Episode>Episode 180816 / 16 Aug 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180816</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180816</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06gh196.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180816_6min_english_fathers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180816_6min_english_fathers.pdf</PdfUrl>
@@ -437,7 +464,7 @@
 <Title>A tall story</Title>
 <Keynote>Does being taller mean you earn more at work?</Keynote>
 <Episode>Episode 180809 / 09 Aug 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180809</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180809</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06fr8pv.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180809_6min_english_tall_people_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180809_6min_english_tall_people.pdf</PdfUrl>
@@ -446,7 +473,7 @@
 <Title>How intelligent is the octopus?</Title>
 <Keynote>Learn more about this fascinating animal</Keynote>
 <Episode>Episode 180802 / 02 Aug 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180802</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180802</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06dtypn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180802_6min_english_octopus_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180802_6min_english_octopus.pdf</PdfUrl>
@@ -455,7 +482,7 @@
 <Title>Not going out</Title>
 <Keynote>Why are countryside walks no longer so popular?</Keynote>
 <Episode>Episode 180726 / 26 Jul 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180726</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180726</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06dcx53.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180726_6min_english_not_going_out_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180726_6min_english_not_going_out.pdf</PdfUrl>
@@ -464,7 +491,7 @@
 <Title>Is technology always the solution?</Title>
 <Keynote>Why technology doesn't always know best</Keynote>
 <Episode>Episode 180719 / 19 Jul 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180719</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180719</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06p8ryw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180719_6min_english_technochauvinism_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180719_6min_english_technochauvinism.pdf</PdfUrl>
@@ -473,7 +500,7 @@
 <Title>Smartphone addiction</Title>
 <Keynote>Smartphone addiction</Keynote>
 <Episode>Episode 180712 / 12 Jul 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180712</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180712</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06dkk9m.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180712_6min_english_smartphone_addiction_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180712_6min_smartphone_addiction.pdf</PdfUrl>
@@ -482,7 +509,7 @@
 <Title>Surf and turf</Title>
 <Keynote>Surf and turf shopping</Keynote>
 <Episode>Episode 180705 / 05 Jul 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180705</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180705</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06bq62z.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180705_6_min_english_surf_and_turf_download1.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180705_6_min_english_surf_and_turf.pdf</PdfUrl>
@@ -491,7 +518,7 @@
 <Title>Broken hearts</Title>
 <Keynote>A healthy heart</Keynote>
 <Episode>Episode 180628 / 28 Jun 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180628</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180628</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06bfl3f.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180628_6_min_english_broken_heart_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180628_6min_english_heart.pdf</PdfUrl>
@@ -500,7 +527,7 @@
 <Title>Is gaming a sport?</Title>
 <Keynote>The Fortnite phenomenon</Keynote>
 <Episode>Episode 180621 / 21 Jun 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180621</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180621</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p069wrvp.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180621_6min_english_gaming_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180621_6min_english_gaming.pdf</PdfUrl>
@@ -509,7 +536,7 @@
 <Title>Are you excited about the World Cup?</Title>
 <Keynote>Are you a football fan?</Keynote>
 <Episode>Episode 180614 / 14 Jun 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180614</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180614</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p069yh07.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180614_6_min_english_world_cup_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180614_6min_english_world_cup.pdf</PdfUrl>
@@ -518,7 +545,7 @@
 <Title>Talking to machines</Title>
 <Keynote>Our new virtual assistants</Keynote>
 <Episode>Episode 180607 / 07 Jun 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180607</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180607</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p068r93g.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180607_6_min_english_talking_to_machines_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180607_6_min_english_talking_to machines.pdf</PdfUrl>
@@ -527,7 +554,7 @@
 <Title>Taking risks</Title>
 <Keynote>Risky language</Keynote>
 <Episode>Episode 180531 / 31 May 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180531</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180531</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06871wz.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180531_6_minute_english_risk_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180531_6_minute_english_risk.pdf</PdfUrl>
@@ -536,7 +563,7 @@
 <Title>Women in space</Title>
 <Keynote>Gender equality</Keynote>
 <Episode>Episode 180524 / 24 May 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180524</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180524</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0673wpk.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180524_6_minute_english_women_astronauts_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180524_6min_english_women_astronauts.pdf</PdfUrl>
@@ -545,7 +572,7 @@
 <Title>Football songs: Why are crowds so quiet these days?</Title>
 <Keynote>Why are football fans so quiet nowdays?</Keynote>
 <Episode>Episode 180517 / 17 May 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180517</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180517</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p067f85k.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180517_6min_football_songs_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180517_6min_football_songs.pdf</PdfUrl>
@@ -554,7 +581,7 @@
 <Title>Hangry: are you angry when you're hungry?</Title>
 <Keynote>hungry + angry = hangry</Keynote>
 <Episode>Episode 180510 / 10 May 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180510</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180510</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p066s935.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180510_6min_english_hanger_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180510_6min_english_hangry.pdf</PdfUrl>
@@ -563,7 +590,7 @@
 <Title>Perfume: what your smell says about you</Title>
 <Keynote>What does your smell say about you?</Keynote>
 <Episode>Episode 180503 / 03 May 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180503</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180503</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p066098s.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180503_6min_english_perfume_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180503_6min_english_perfume.pdf</PdfUrl>
@@ -572,7 +599,7 @@
 <Title>Is the internet good or bad?</Title>
 <Keynote>Is the internet a positive thing?</Keynote>
 <Episode>Episode 180426 / 26 Apr 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180426</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180426</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p064swbm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180426_6min_english_internet_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180426_6min_english_internet.pdf</PdfUrl>
@@ -581,7 +608,7 @@
 <Title>Lying to children</Title>
 <Keynote>Is it good to lie?</Keynote>
 <Episode>Episode 180419 / 19 Apr 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180419</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180419</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p06470dl.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180419_6min_english_lying_to_children_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180419_6min_english_lying_to_children.pdf</PdfUrl>
@@ -590,7 +617,7 @@
 <Title>Are you a foodie?</Title>
 <Keynote>How much do you know about the food you eat?</Keynote>
 <Episode>Episode 180412 / 12 Apr 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180412</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180412</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p063vhf9.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180412_6min_english_foodie_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180412_6min_english_foodie.pdf</PdfUrl>
@@ -599,7 +626,7 @@
 <Title>The future of marriage</Title>
 <Keynote>Marriage decline</Keynote>
 <Episode>Episode 180405 / 05 Apr 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180405</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180405</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0623j0w.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180405_6_min_english_marriage_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180405_6_min_english_marriage.pdf</PdfUrl>
@@ -608,7 +635,7 @@
 <Title>Who needs a manbag?</Title>
 <Keynote>A bag for a man</Keynote>
 <Episode>Episode 180329 / 29 Mar 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180329</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180329</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p061446w.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180329_6_min_english_manbags_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180329_6_min_english_manbags.pdf</PdfUrl>
@@ -617,7 +644,7 @@
 <Title>Microadventures!</Title>
 <Keynote>A mini-adventure</Keynote>
 <Episode>Episode 180322 / 22 Mar 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180322</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180322</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05z4t9h.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180322_6min_english_microadventures_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180322_6min_eng_microadventures.pdf</PdfUrl>
@@ -626,7 +653,7 @@
 <Title>How do you learn to speak a language?</Title>
 <Keynote>Words to learn</Keynote>
 <Episode>Episode 180315 / 15 Mar 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180315</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180315</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p066x7gj.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180315_6min_english_learn_a_language_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180315_6min_english_learning_a_language.pdf</PdfUrl>
@@ -635,7 +662,7 @@
 <Title>Robot therapist</Title>
 <Keynote>Would you tell a robot your deepest secrets?</Keynote>
 <Episode>Episode 180308 / 08 Mar 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180308</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180308</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05ypv9h.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180308_6min_english_robot_therapist_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180308_6min_english_robot_therapist.pdf</PdfUrl>
@@ -644,7 +671,7 @@
 <Title>Hello, hello</Title>
 <Keynote>The history of the humble ‘hello’</Keynote>
 <Episode>Episode 180301 / 01 Mar 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180301</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180301</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05ycn55.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180301_6min_english_hello_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180301_6min_english_hello.pdf</PdfUrl>
@@ -653,7 +680,7 @@
 <Title>Swimming like a mermaid</Title>
 <Keynote>A new approach to swimming</Keynote>
 <Episode>Episode 180222 / 22 Feb 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180222</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180222</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05z1642.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180222_6min_english_mermaiding_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180222_6min_english_mermaiding.pdf</PdfUrl>
@@ -662,7 +689,7 @@
 <Title>The rise of drones</Title>
 <Keynote>Are drones taking off?</Keynote>
 <Episode>Episode 180215 / 15 Feb 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180215</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180215</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05yntxt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180215_6min_englsh_drones_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180215_6min_english_drones.pdf</PdfUrl>
@@ -671,7 +698,7 @@
 <Title>Transport of the future</Title>
 <Keynote>Future travel</Keynote>
 <Episode>Episode 180208 / 08 Feb 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180208</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180208</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05wh2sh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180208_6min_englsh_future_transport_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180208_6min_englsh_future_transport.pdf</PdfUrl>
@@ -680,7 +707,7 @@
 <Title>What’s in a name?</Title>
 <Keynote>A new wedding trend?</Keynote>
 <Episode>Episode 180201 / 01 Feb 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180201</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180201</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05wprxg.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180201_6min_english_mans_name_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180201_6min_english_mans_name.pdf</PdfUrl>
@@ -689,7 +716,7 @@
 <Title>Rise of the machines</Title>
 <Keynote>Are robots and artificial intelligence taking over from humans? Dan and Neil discuss the rise of the machines</Keynote>
 <Episode>Episode 180125 / 25 Jan 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180125</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180125</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05v5bdr.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180125_6_min_english_rise_of_the_machines_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180125_6_min_english_rise_of_the_machines.pdf</PdfUrl>
@@ -698,7 +725,7 @@
 <Title>A dry January?</Title>
 <Keynote>Are you trying to give up drinking this month? Catherine and Rob discuss abstaining and the benefits of a dry January</Keynote>
 <Episode>Episode 180118 / 18 Jan 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180118</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180118</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05tkrkd.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180118_6min_eng_dry_january_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/180118_6min_english_dry_january.pdf</PdfUrl>
@@ -707,7 +734,7 @@
 <Title>Ethical coffee</Title>
 <Keynote>Would you pay more for coffee if you knew it was doing some good? Dan and Catherine discuss the pros and cons of ethically produced coffee.</Keynote>
 <Episode>Episode 180111 / 11 Jan 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180111</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180111</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05sy1wh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180111_6_minute_english_ethical_coffee_download.mp3</Mp3Url>
 <PdfUrl/>
@@ -716,7 +743,7 @@
 <Title>Bitcoin: digital crypto-currency</Title>
 <Keynote>Bitcoin is here and it's generating interest. Is that a good or bad thing? Dan and Neil discuss the pros and cons of this digital currency.</Keynote>
 <Episode>Episode 180104 / 04 Jan 2018</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-180104</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180104</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05r7r9c.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/180104_6min_english_bitcoin_download.mp3</Mp3Url>
 <PdfUrl/>
@@ -725,7 +752,7 @@
 <Title>Is 'man flu' real?</Title>
 <Keynote>Can science prove the existence of 'man flu' or are men just big babies? Dan and Neil discuss all this and give you six useful items of vocabulary.</Keynote>
 <Episode>Episode 171228 / 28 Dec 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171228</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171228</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05r7dvn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171228_6min_english_man_flu_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171228_6min_english_man_flu.pdf</PdfUrl>
@@ -734,7 +761,7 @@
 <Title>The perfect Santa</Title>
 <Keynote>A popular job at this time of year is playing the part of Santa. But what does it take to be the perfect Father Christmas? Neil and Dan discuss whether it's a role that would suit Dan.</Keynote>
 <Episode>Episode 171221 / 21 Dec 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171221</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171221</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05rn724.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171221_6min_english_perfect_santa_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171221_6min_english_perfect_santa.pdf</PdfUrl>
@@ -743,7 +770,7 @@
 <Title>Should schoolchildren have jobs?</Title>
 <Keynote>The number of schoolchildren doing part-time jobs in the UK has fallen. Is that a good thing? Neil and Dan discuss the pros and cons of working while you're still at school.</Keynote>
 <Episode>Episode 171214 / 14 Dec 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171214</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171214</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05qwnf8.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171214_6min_english_should_schoolchildren_have_jobs_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171214_6min_english_should_schoolchildren_have_jobs.pdf</PdfUrl>
@@ -752,7 +779,7 @@
 <Title>What do you buy when you're sad?</Title>
 <Keynote>Have you ever bought something when you're sad and then regretted it later?</Keynote>
 <Episode>Episode 171207 / 07 Dec 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171207</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171207</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05q51wc.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171207_6min_english_buy_when_sad_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171207_6min_english_buy_when_sad.pdf</PdfUrl>
@@ -761,7 +788,7 @@
 <Title>Do you need to upgrade your phone?</Title>
 <Keynote>How old is your smartphone?</Keynote>
 <Episode>Episode 171130 / 30 Nov 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171130</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171130</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05m9j9l.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171130_6min_english_phone_upgrade_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171130_6min_english_phone_upgrade.pdf</PdfUrl>
@@ -770,7 +797,7 @@
 <Title>Why more of us are getting fitter together</Title>
 <Keynote>More people are going to the gym to get fitter but why?</Keynote>
 <Episode>Episode 171123 / 23 Nov 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171123</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171123</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05mp6jh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171123_6min_english_getting_fitter_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171123_6min_english_getting_fitter.pdf</PdfUrl>
@@ -779,7 +806,7 @@
 <Title>How do you like your coffee?</Title>
 <Keynote>Does a cafe's free wi-fi encourage you to go in and buy a coffee?</Keynote>
 <Episode>Episode 171116 / 16 Nov 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171116</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171116</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05m61d5.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171116_6min_english_coffee_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171116_6min_english_coffee.pdf</PdfUrl>
@@ -788,7 +815,7 @@
 <Title>Pedestrianisation - is it good for cities and towns?</Title>
 <Keynote>There’s a fresh interest in keeping cars out of cities. Is it a good idea?</Keynote>
 <Episode>Episode 171102 / 02 Nov 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171102</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171102</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05lvkg1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171102_6min_english_pedestrians_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171102_6min_english_pedestrians.pdf</PdfUrl>
@@ -797,7 +824,7 @@
 <Title>Too much sugar</Title>
 <Keynote>Are you aware of how much of the sweet stuff you eat?</Keynote>
 <Episode>Episode 171026 / 26 Oct 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171026</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171026</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05hwj0q.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171026_6min_english_sugar_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171026_6min_english_sugar.pdf</PdfUrl>
@@ -806,7 +833,7 @@
 <Title>What’s wetiquette?</Title>
 <Keynote>When you have to be polite and courteous ... even when you swim!</Keynote>
 <Episode>Episode 171019 / 19 Oct 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171019</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171019</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05kd9jz.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171019_6min_english_wetiquette_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171019_6min_english_wetiquette.pdf</PdfUrl>
@@ -815,7 +842,7 @@
 <Title>Why pay for bottled water?</Title>
 <Keynote>Can you tell the difference between the taste of bottled water and tap water?</Keynote>
 <Episode>Episode 171012 / 12 Oct 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171012</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171012</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05jrqtd.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171012_6min_english_bottled_water_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171012_6min_english_bottled_water.pdf</PdfUrl>
@@ -824,7 +851,7 @@
 <Title>Do adults exercise enough?</Title>
 <Keynote>Neil and Rob talk about vigorous exercise – and whether adults take enough of it!</Keynote>
 <Episode>Episode 171005 / 05 Oct 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-171005</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-171005</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05j3wtw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/171005_6min_english_adult_exercise_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/171005_6min_english_adult_exercise.pdf</PdfUrl>
@@ -833,7 +860,7 @@
 <Title>What can't computers do?</Title>
 <Keynote>Are you afraid of machines that copy human intelligent behaviour?</Keynote>
 <Episode>Episode 170928 / 28 Sep 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170928</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170928</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05cmhsf.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170928_6min_english_computers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170928_6min_english_computers.pdf</PdfUrl>
@@ -842,7 +869,7 @@
 <Title>The wonders of hair</Title>
 <Keynote>Did you know that when the entire body is aging hair can grow stronger?</Keynote>
 <Episode>Episode 170921 / 21 Sep 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170921</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170921</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05cmj64.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170921_6min_english_hair_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170921_6min_english_hair.pdf</PdfUrl>
@@ -851,7 +878,7 @@
 <Title>Having a row or asking for directions?</Title>
 <Keynote>Tim and Neil talk about interactions that can be misunderstood by people of different backgrounds</Keynote>
 <Episode>Episode 170914 / 14 Sep 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170914</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170914</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05cpygs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170914_6min_english_cultural_differences_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170914_6min_english_cultural_differences.pdf</PdfUrl>
@@ -860,7 +887,7 @@
 <Title>Uniforms</Title>
 <Keynote>A policeman, a pilot, a chef - what's our fascination with uniforms?</Keynote>
 <Episode>Episode 170907 / 07 Sep 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170907</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170907</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05c47hf.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170907_6min_english_uniforms_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170907_6min_english_uniforms.pdf</PdfUrl>
@@ -869,7 +896,7 @@
 <Title>Laughing could kill you</Title>
 <Keynote>Tim and Neil laugh their head off as they teach you useful vocabulary</Keynote>
 <Episode>Episode 170831 / 31 Aug 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170831</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170831</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05c47l0.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170831_6min_english_laughing_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170831_6min_english_laughing.pdf</PdfUrl>
@@ -878,7 +905,7 @@
 <Title>Would the world stop without clocks?</Title>
 <Keynote>Rob and Neil are in a hurry to discuss our concept of time and teach you new words</Keynote>
 <Episode>Episode 170824 / 24 Aug 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170824</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170824</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05b6sdf.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170824_6min_english_time_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170824_6min_english_time.pdf</PdfUrl>
@@ -887,7 +914,7 @@
 <Title>What makes a video go viral?</Title>
 <Keynote>Rob and Neil discuss what makes people want to share a video</Keynote>
 <Episode>Episode 170817 / 17 Aug 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170817</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170817</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p05b6s7r.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170817_6min_english_viral_videos_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170817_6min_english_viral_videos.pdf</PdfUrl>
@@ -896,7 +923,7 @@
 <Title>Fancy dress funerals</Title>
 <Keynote>Have you ever thought about what sort of funeral you would like to have?</Keynote>
 <Episode>Episode 170810 / 10 Aug 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170810</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170810</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p059p0h9.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170810_6min_english_fancy_dress_funerals_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170810_6min_english_fancy_dress_funerals.pdf</PdfUrl>
@@ -905,7 +932,7 @@
 <Title>It's good to talk</Title>
 <Keynote>The treatments that help people stay mentally healthy</Keynote>
 <Episode>Episode 170803 / 03 Aug 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170803</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170803</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p059nn63.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170803_6min_english_talk_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170803_6min_english_talk.pdf</PdfUrl>
@@ -914,7 +941,7 @@
 <Title>How honest are we?</Title>
 <Keynote>Have you ever cheated an honesty box? Is honesty really the best policy?</Keynote>
 <Episode>Episode 170727 / 27 Jul 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170727</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170727</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0590k3p.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170727_6min_english_honesty_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170727_6min_english_honesty.pdf</PdfUrl>
@@ -923,7 +950,7 @@
 <Title>You think you're invisible?</Title>
 <Keynote>Do you not want to be seen?</Keynote>
 <Episode>Episode 170720 / 20 Jul 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170720</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170720</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0589ssy.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170720_6min_english_invisible_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170720_6min_english_invisible.pdf</PdfUrl>
@@ -932,7 +959,7 @@
 <Title>How do pets navigate?</Title>
 <Keynote>How do lost cats and dogs find their way home?</Keynote>
 <Episode>Episode 170713 / 13 Jul 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170713</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170713</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0589sqn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170713_6min_english_pets_navigate_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170713_6min_english_pets_navigate.pdf</PdfUrl>
@@ -941,7 +968,7 @@
 <Title>Self-help</Title>
 <Keynote>Want to improve your life?</Keynote>
 <Episode>Episode 170706 / 06 Jul 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170706</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170706</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0570r9m.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170706_6min_english_self_help_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170706_6min_english_self_help.pdf</PdfUrl>
@@ -950,7 +977,7 @@
 <Title>Faces and first impressions</Title>
 <Keynote>Can we trust our first impressions?</Keynote>
 <Episode>Episode 170629 / 29 Jun 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170629</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170629</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0570pxb.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170629_6min_english_first_impressions_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170629_6min_english_first_impressions.pdf</PdfUrl>
@@ -959,7 +986,7 @@
 <Title>Built to fail?</Title>
 <Keynote>Why do we throw away so much technology?</Keynote>
 <Episode>Episode 170622 / 22 Jun 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170622</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170622</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0551ml7.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170622_6min_english_built_to_fail_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170622_6min_english_built_to_fail.pdf</PdfUrl>
@@ -968,7 +995,7 @@
 <Title>Mindfulness</Title>
 <Keynote>Relax, slow down and breathe. Neil and Catherine explore mindfulness - what it is and what benefits it offers</Keynote>
 <Episode>Episode 170615 / 15 Jun 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170615</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170615</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0551n5k.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170615_6min_english_mindfulness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170615_6min_english_mindfulness.pdf</PdfUrl>
@@ -977,7 +1004,7 @@
 <Title>Is happiness genetic?</Title>
 <Keynote>Is happiness in the DNA?</Keynote>
 <Episode>Episode 170608 / 08 Jun 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170608</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170608</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p053ys9b.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170608_6min_happiness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170608_6min_happiness.pdf</PdfUrl>
@@ -986,7 +1013,7 @@
 <Title>Water Burial</Title>
 <Keynote>A new way to rest in peace</Keynote>
 <Episode>Episode 170601 / 01 Jun 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170601</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170601</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p053yqjx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170601_6min_water_burial_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170601_6min_water_burial.pdf</PdfUrl>
@@ -995,7 +1022,7 @@
 <Title>Could you go vegan?</Title>
 <Keynote>Could you give up meat and animal products?</Keynote>
 <Episode>Episode 170525 / 25 May 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170525</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170525</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0532s2n.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170525_6min_english_veganism_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170525_6min_english_veganism.pdf</PdfUrl>
@@ -1004,7 +1031,7 @@
 <Title>Goldfish, brains and phones</Title>
 <Keynote>Do people now have shorter attention spans than goldfish?</Keynote>
 <Episode>Episode 170518 / 18 May 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170518</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170518</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0532rzm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170518_6min_english_attention_span_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170518_6min_english_attention_span.pdf</PdfUrl>
@@ -1013,7 +1040,7 @@
 <Title>How much food do you waste?</Title>
 <Keynote>Food waste is a major problem</Keynote>
 <Episode>Episode 170511 / 11 May 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170511</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170511</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p052jcl0.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170511_6min_food_waste_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170511_6min_english_food_waste.pdf</PdfUrl>
@@ -1022,7 +1049,7 @@
 <Title>The super rich</Title>
 <Keynote>The rich are getting richer</Keynote>
 <Episode>Episode 170504 / 04 May 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170504</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170504</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p051r8w4.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170504_6min_english_super_rich_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170504_6min_super_rich.pdf</PdfUrl>
@@ -1031,7 +1058,7 @@
 <Title>Miraculous survival</Title>
 <Keynote>How did a man fall from a 47 storey skyscraper and survive?</Keynote>
 <Episode>Episode 170427 / 27 Apr 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170427</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170427</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p050mdrz.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170427_6min_engl_miraculous_survival_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170427_6min_english_miraculous_survival.pdf</PdfUrl>
@@ -1040,7 +1067,7 @@
 <Title>Sighing</Title>
 <Keynote>Why do we sigh?</Keynote>
 <Episode>Episode 170420 / 20 Apr 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170420</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170420</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04zscw4.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170420_6min_sighing_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170420_6min_sighing.pdf</PdfUrl>
@@ -1049,7 +1076,7 @@
 <Title>Multiple Careers</Title>
 <Keynote>What's behind the trend for having more than one career?</Keynote>
 <Episode>Episode 170413 / 13 Apr 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170413</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170413</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04y6fy1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170413_6min_english_multiple_careers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170413_6min_english_multiple_careers.pdf</PdfUrl>
@@ -1058,7 +1085,7 @@
 <Title>Food and mood</Title>
 <Keynote>How does your food affect your mood?</Keynote>
 <Episode>Episode 170406 / 06 Apr 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170406</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170406</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04x5v61.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170406_6min_english_food_mood_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170406_6min_english_food_mood.pdf</PdfUrl>
@@ -1067,7 +1094,7 @@
 <Title>Dog detectors</Title>
 <Keynote>Can dogs be used to detect cancer?</Keynote>
 <Episode>Episode 170330 / 30 Mar 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170330</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170330</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04yhk34.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170330_6min_english_dog_detectors_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170330_6min_dog_detectors.pdf</PdfUrl>
@@ -1076,7 +1103,7 @@
 <Title>The rise of the emoji</Title>
 <Keynote>Are you an emoji person? We explore how simple smiley faces have become powerful communication tools.</Keynote>
 <Episode>Episode 170323 / 23 Mar 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170323</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170323</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04wr481.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170323_6min_english_emoji_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170323_6min_emoji.pdf</PdfUrl>
@@ -1085,7 +1112,7 @@
 <Title>What your lunch says about you</Title>
 <Keynote>What do you eat for lunch? Sandwiches are the most popular lunchtime meal in the UK, but why?</Keynote>
 <Episode>Episode 170316 / 16 Mar 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170316</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170316</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04wr373.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170316_6min_english_lunch_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170316_6min_lunch.pdf</PdfUrl>
@@ -1094,7 +1121,7 @@
 <Title>Mermaids – Fact or fiction?</Title>
 <Keynote>Are mermaids real?</Keynote>
 <Episode>Episode 170309 / 09 Mar 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170309</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170309</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04vjz2f.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170309_6min_english_mermaids_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170309_6min_english_mermaids.pdf</PdfUrl>
@@ -1103,7 +1130,7 @@
 <Title>Life expectancy</Title>
 <Keynote>Can humanity really breach the 90 year limit?</Keynote>
 <Episode>Episode 170302 / 02 Mar 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170302</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170302</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04vg694.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170302_6min_english_life_expectancy_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170302_6min_english_life expectancy.pdf</PdfUrl>
@@ -1112,7 +1139,7 @@
 <Title>Gun control without guns</Title>
 <Keynote>Gun control with no guns? How is that possible? Join Dan and Neil to find out.</Keynote>
 <Episode>Episode 170223 / 23 Feb 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170223</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170223</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04tpmkr.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170223_6min_english_gun_control_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170223_6min_english_gun_control.pdf</PdfUrl>
@@ -1121,7 +1148,7 @@
 <Title>How romance ruined love</Title>
 <Keynote>Neil and Dan discuss romanticism</Keynote>
 <Episode>Episode 170216 / 16 Feb 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170216</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170216</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04szxjy.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170216_6min_english_romanticism_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170216_6min_english_romanticism.pdf</PdfUrl>
@@ -1130,7 +1157,7 @@
 <Title>Can you trust your own eyes?</Title>
 <Keynote>Catherine and Neil discuss why the police and the legal system are concerned about eyewitness testimony</Keynote>
 <Episode>Episode 170209 / 09 Feb 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170209</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170209</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04nyvm1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170209_6min_english_eyewitness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170209_6min_english_eyewitness.pdf</PdfUrl>
@@ -1139,7 +1166,7 @@
 <Title>Why do cities make us rude?</Title>
 <Keynote>Catherine and Neil discuss how the pressures of modern living are making us hostile to each other</Keynote>
 <Episode>Episode 170202 / 02 Feb 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170202</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170202</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04p084v.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170202_6min_english_rudeness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170202_6min_english_rudeness.pdf</PdfUrl>
@@ -1148,7 +1175,7 @@
 <Title>Family history</Title>
 <Keynote>Why are so many people obsessed with learning about their family history? Neil and Catherine talk about genealogy</Keynote>
 <Episode>Episode 170126 / 26 Jan 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170126</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170126</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04nytzt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170126_6min_english_family_history_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170126_6min_english_family_history.pdf</PdfUrl>
@@ -1157,7 +1184,7 @@
 <Title>Life on the edge</Title>
 <Keynote>The increased study of extremophile microbes has revealed a lot about what is and is not needed to sustain life on Earth</Keynote>
 <Episode>Episode 170119 / 19 Jan 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170119</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170119</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04lj10m.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170119_6min_english_extremophiles_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170119_6min_english_extremophiles.pdf</PdfUrl>
@@ -1166,7 +1193,7 @@
 <Title>What's your superpower?</Title>
 <Keynote>Why are we so fascinated with the superheroes that populate our cinema screens and comic books?</Keynote>
 <Episode>Episode 170112 / 12 Jan 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170112</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170112</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04lfklq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170112_6min_english_superheroes_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170112_6min_english_superheroes.pdf</PdfUrl>
@@ -1175,7 +1202,7 @@
 <Title>Driving</Title>
 <Keynote>Alice and Neil discuss whether we would miss driving as driverless cars are tested in cities around the world</Keynote>
 <Episode>Episode 170105 / 05 Jan 2017</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-170105</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170105</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04gwsnv.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/170105_6min_english_driving_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/170105_6min_english_driving.pdf</PdfUrl>
@@ -1184,7 +1211,7 @@
 <Title>Introvert... and proud!</Title>
 <Keynote>What’s your personality type? If you are an introvert you’re in good company; Barack Obama, JK Rowling are introverts...</Keynote>
 <Episode>Episode 161229 / 29 Dec 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161229</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161229</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04gwsfs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161229_6min_english_introverts_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161229_6min_english_introverts.pdf</PdfUrl>
@@ -1193,7 +1220,7 @@
 <Title>Why do crazes take off?</Title>
 <Keynote>Why is it that some games, hobbies and activities become crazes while others don’t? Alice and Neil talk about their preferences</Keynote>
 <Episode>Episode 161222 / 22 Dec 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161222</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161222</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04grh8b.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161222_6min_english_crazes_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161222_6min_english_crazes.pdf</PdfUrl>
@@ -1202,7 +1229,7 @@
 <Title>When do you feel sleepy?</Title>
 <Keynote>Alice and Neil discuss circadian rhythms – the so-called body clock that influences an organism's daily cycle of changes</Keynote>
 <Episode>Episode 161215 / 15 Dec 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161215</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161215</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04grhhz.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161215_6min_english_circadian_rhythms_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161215_6min_english_circadian_rhythms.pdf</PdfUrl>
@@ -1211,7 +1238,7 @@
 <Title>Cleopatra</Title>
 <Keynote>Sophie and Neil discuss why the last pharaoh of Egypt still fascinates people today</Keynote>
 <Episode>Episode 161208 / 08 Dec 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161208</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161208</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04kmltx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161208_6min_english_cleopatra_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161208_6min_english_cleopatra.pdf</PdfUrl>
@@ -1220,7 +1247,7 @@
 <Title>Animal phobias</Title>
 <Keynote>Why do we fear animals that pose no threat to us? Sophie and Neil discuss the reason why fear of spiders is so common</Keynote>
 <Episode>Episode 161201 / 01 Dec 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161201</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161201</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04d24dm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161201_6min_english_animal_phobias_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161201_6min_english_animal_phobias.pdf</PdfUrl>
@@ -1229,7 +1256,7 @@
 <Title>Women's right to vote</Title>
 <Keynote>Neil and Alice talk about the defiant women who fought for their right to choose their representatives</Keynote>
 <Episode>Episode 161124 / 24 Nov 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161124</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161124</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04gf36n.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161124_6min_english_suffragism_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161124_6min_english_suffragism.pdf</PdfUrl>
@@ -1238,7 +1265,7 @@
 <Title>Why we love trainers</Title>
 <Keynote>Call them what you want – trainers, sneakers, tennis shoes – but why does everybody love them so much?</Keynote>
 <Episode>Episode 161117 / 17 Nov 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161117</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161117</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04d21tf.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161117_6min_english_trainers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161117_6min_english_trainers.pdf</PdfUrl>
@@ -1247,7 +1274,7 @@
 <Title>On your bike</Title>
 <Keynote>Sophie and Neil discuss the bike's mass appeal, from helping to widen the gene pool to blazing a trail for the women’s movement</Keynote>
 <Episode>Episode 161110 / 10 Nov 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161110</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161110</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04b45sl.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161110_6min_english_bicycles_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161110_6min_english_bicycles.pdf</PdfUrl>
@@ -1256,7 +1283,7 @@
 <Title>Hi, meet my online persona!</Title>
 <Keynote>Sophie and Neil discuss social networks and why we often use different identities for different social media</Keynote>
 <Episode>Episode 161103 / 03 Nov 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161103</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161103</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p04b41r9.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161103_6min_english_online_persona_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161103_6min_english_online_persona.pdf</PdfUrl>
@@ -1265,7 +1292,7 @@
 <Title>How do you read your news?</Title>
 <Keynote>Free, digital news is threatening traditional newspapers. Sophie and Neil discuss the pros and cons of news in print</Keynote>
 <Episode>Episode 161027 / 27 Oct 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161027</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161027</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p049ymnp.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161027_6min_english_newspapers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161027_6min_english_newspapers.pdf</PdfUrl>
@@ -1274,7 +1301,7 @@
 <Title>Do opposites attract?</Title>
 <Keynote>Why are we attracted to some people and not to others? Sophie and Neil discuss love at first sight</Keynote>
 <Episode>Episode 161020 / 20 Oct 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161020</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161020</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0494mrs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161020_6min_english_attraction_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161020_6min_english_attraction.pdf</PdfUrl>
@@ -1283,7 +1310,7 @@
 <Title>Is loneliness in our genes?</Title>
 <Keynote>What is loneliness and why do we feel it? Sophie and Neil discuss how feeling lonely can help us to survive</Keynote>
 <Episode>Episode 161013 / 13 Oct 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161013</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161013</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0494lrs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161013_6min_english_loneliness_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161013_6min_english_loneliness.pdf</PdfUrl>
@@ -1292,7 +1319,7 @@
 <Title>Who do you think you are?</Title>
 <Keynote>How do you see yourself and how do others see you? Alice and Neil discuss identity and how appearances can be deceptive</Keynote>
 <Episode>Episode 161006 / 06 Oct 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-161006</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-161006</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p046t50m.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/161006_6min_english_identity_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/161006_6min_english_identity.pdf</PdfUrl>
@@ -1301,7 +1328,7 @@
 <Title>Does punctuation matter?</Title>
 <Keynote>Why is punctuation important? Neil and Alice discuss rhetoric, commas and full stops.</Keynote>
 <Episode>Episode 160929 / 29 Sep 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160929</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160929</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p046t4qm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160929_6min_english_punctuation_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160929_6min_english_punctuation.pdf</PdfUrl>
@@ -1310,7 +1337,7 @@
 <Title>Penicillin: breaking the mould</Title>
 <Keynote>Alice and Neil discuss penicillin, the so-called wonder drug discovered in 1928 by Alexander Fleming</Keynote>
 <Episode>Episode 160922 / 22 Sep 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160922</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160922</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p046t4fw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160922_6min_english_antibiotics_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160922_6min_english_antibiotics.pdf</PdfUrl>
@@ -1319,7 +1346,7 @@
 <Title>Global warming</Title>
 <Keynote>What might the world look like if temperatures keep rising? Neil and Alice discuss the need to adapt to the changes ahead</Keynote>
 <Episode>Episode 160915 / 15 Sep 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160915</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160915</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p046t3tt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160915_6min_english_climate_change_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160915_6min_english_climate_change.pdf</PdfUrl>
@@ -1328,7 +1355,7 @@
 <Title>Old tech</Title>
 <Keynote>Did you ever own a Walkman or a record player? Alice and Neil discuss old tech and why the US Pentagon still uses floppy disks</Keynote>
 <Episode>Episode 160908 / 08 Sep 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160908</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160908</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0441jtx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160908_6min_english_old_tech_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160908_6min_english_old_tech.pdf</PdfUrl>
@@ -1337,7 +1364,7 @@
 <Title>Slang</Title>
 <Keynote>Neil and Alice discuss the differences between slang, jargon, and swearing, while teaching you some Cockney Rhyming Slang</Keynote>
 <Episode>Episode 160901 / 01 Sep 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160901</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160901</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p043hmw1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160901_6min_english_slang_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160901_6min_english_slang.pdf</PdfUrl>
@@ -1346,7 +1373,7 @@
 <Title>Domestic chores</Title>
 <Keynote>Do women clean the house more often than men? Alice and Neil discuss the topic and teach you a tidy amount of vocabulary</Keynote>
 <Episode>Episode 160825 / 25 Aug 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160825</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160825</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p043bxw9.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160825_6min_english_domestic_chores_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160825_6min_english_domestic_chores.pdf</PdfUrl>
@@ -1355,7 +1382,7 @@
 <Title>Have you walked off your pizza?</Title>
 <Keynote>Is food labelling clear enough to help us make healthy choices? Alice and Neil discuss chocolate chip muffins along with some other tasty vocabulary</Keynote>
 <Episode>Episode 160818 / 18 Aug 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160818</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160818</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p042n9y7.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160818_6min_english_food_exercise_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160818_6min_english_food_exercise.pdf</PdfUrl>
@@ -1364,7 +1391,7 @@
 <Title>How to cure writer's block</Title>
 <Keynote>Who were the Muses and how did they help the creative process? Neil and Alice discuss how to be more creative</Keynote>
 <Episode>Episode 160811 / 11 Aug 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160811</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160811</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p041ylq7.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160811_6min_english_writers_block_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160811_6min_english_writers_block.pdf</PdfUrl>
@@ -1373,7 +1400,7 @@
 <Title>Is English changing?</Title>
 <Keynote>Will we still be speaking in an English we recognise in a thousand years' time? Alice and Neil make some educated guesses!</Keynote>
 <Episode>Episode 160804 / 04 Aug 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160804</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160804</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03zh5tk.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160804_6min_english_future_of_english_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160804_6min_english_future_of_english.pdf</PdfUrl>
@@ -1382,7 +1409,7 @@
 <Title>Heritage sites</Title>
 <Keynote>Neil and Alice discuss the threat to The Great Barrier Reef, the Grand Canyon, and the Inca city of Machu Picchu in Peru</Keynote>
 <Episode>Episode 160728 / 28 Jul 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160728</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160728</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03zh775.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160728_6min_english_heritage_sites_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160728_6min_english_heritage_sites.pdf</PdfUrl>
@@ -1391,7 +1418,7 @@
 <Title>Are we there yet?</Title>
 <Keynote>Why do some weeks just fly by but sometimes minutes can seem like hours? Neil and Alice discuss our perception of time</Keynote>
 <Episode>Episode 160721 / 21 Jul 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160721</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160721</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03z8bcx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160721_6min_english_time_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160721_6min_english_time.pdf</PdfUrl>
@@ -1400,7 +1427,7 @@
 <Title>Cities of the future</Title>
 <Keynote>What will the cities of the future look like, and will we enjoy living in them? Alice and Neil discuss Neil's attempt at town planning</Keynote>
 <Episode>Episode 160714 / 14 Jul 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160714</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160714</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03z89zr.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160714_6min_english_cities_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160714_6min_english_cities.pdf</PdfUrl>
@@ -1409,7 +1436,7 @@
 <Title>Diabetes</Title>
 <Keynote>Why is the disease diabetes on the rise? Alice and Neil talk about the role that diet has to play in this global health problem</Keynote>
 <Episode>Episode 160707 / 07 Jul 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160707</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160707</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03ytjwm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160707_6min_english_diabetes_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160707_6min_english_diabetes.pdf</PdfUrl>
@@ -1418,7 +1445,7 @@
 <Title>Get on with it!</Title>
 <Keynote>Why do we procrastinate? Rob and Alice discuss why it can be difficult to get on with tasks</Keynote>
 <Episode>Episode 160630 / 30 Jun 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160630</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160630</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03qtlrx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160630_6min_english_procrastination_download.mp3</Mp3Url>
 <PdfUrl/>
@@ -1427,7 +1454,7 @@
 <Title>Who would you imitate?</Title>
 <Keynote>Why do we like to impersonate people? Neil tries out his best impression of Elvis while teaching you some related vocabulary</Keynote>
 <Episode>Episode 160623 / 23 Jun 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160623</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160623</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03tpfhs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160623_6min_english_impersonators_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160623_6min_english_impersonators.pdf</PdfUrl>
@@ -1436,7 +1463,7 @@
 <Title>How to prepare for an exam</Title>
 <Keynote>Alice and Rob consider which study techniques are good and which aren't. Does sleeping with a book under your pillow help?</Keynote>
 <Episode>Episode 160616 / 16 Jun 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160616</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160616</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03smrcb.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160616_6min_english_exam_revision_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160616_6min_english_exam_revision.pdf</PdfUrl>
@@ -1445,7 +1472,7 @@
 <Title>Young and in business</Title>
 <Keynote>Young entrepreneurs are appearing everywhere. Alice and Rob discuss whether grey hair is best</Keynote>
 <Episode>Episode 160609 / 09 Jun 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160609</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160609</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03sms8g.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160609_6min_english_young_and_in_business_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160609_6min_english_young_and_in_business.pdf</PdfUrl>
@@ -1454,7 +1481,7 @@
 <Title>Do as I say, not as I do</Title>
 <Keynote>Why do people often say one thing and do another? Alice and Rob ask how far hypocrisy is actually part of who we are</Keynote>
 <Episode>Episode 160602 / 02 Jun 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160602</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160602</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03rx4jx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160602_6min_english_hypocrisy_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160602_6min_english_hypocrisy.pdf</PdfUrl>
@@ -1463,7 +1490,7 @@
 <Title>Could you be an astronaut?</Title>
 <Keynote>Do you have what it takes to go to space? Alice and Rob discuss the challenges of a job thousands of people are keen on</Keynote>
 <Episode>Episode 160526 / 26 May 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160526</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160526</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03rwxsn.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160526_6min_english_astronaut_training_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160526_6min_english_astronaut_training.pdf</PdfUrl>
@@ -1472,7 +1499,7 @@
 <Title>Conspiracy theories</Title>
 <Keynote>Do you believe men walked on the Moon? Alice and Rob discuss why some people are suspicious about everything</Keynote>
 <Episode>Episode 160519 / 19 May 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160519</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160519</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03rbpfq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160519_6min_english_conspiracy_theories_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160519_6min_english_conspiracy_theories.pdf</PdfUrl>
@@ -1481,7 +1508,7 @@
 <Title>Have you got too much stuff?</Title>
 <Keynote>You've decluttered and tidied but could you live life free of stuff? Alice and Rob discuss why we give objects emotional value</Keynote>
 <Episode>Episode 160512 / 12 May 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160512</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160512</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03r3ykf.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160512_6min_english_too_much_stuff_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160512_6min_english_too_much_stuff.pdf</PdfUrl>
@@ -1490,7 +1517,7 @@
 <Title>How bad is booze?</Title>
 <Keynote>Are you a teetotaler or a drinker? Rob and Alice discuss what risk to your health regular drinking may have</Keynote>
 <Episode>Episode 160505 / 05 May 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160505</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160505</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03r1528.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160505_6min_english_booze_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160505_6min_english_booze.pdf</PdfUrl>
@@ -1499,7 +1526,7 @@
 <Title>Is chivalry dead?</Title>
 <Keynote>What does it take to impress the ladies in the 21st century? Neil and Alice discuss knights in shining armour</Keynote>
 <Episode>Episode 160428 / 28 Apr 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160428</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160428</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03rv9cz.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160428_6min_english_chivalry_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160428_6min_english_chivalry.pdf</PdfUrl>
@@ -1508,7 +1535,7 @@
 <Title>Never too old</Title>
 <Keynote>Is retirement the end of everything or just a door for new opportunities? Alice and Rob talk about aging</Keynote>
 <Episode>Episode 160421 / 21 Apr 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160421</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160421</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03r12l4.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160421_6min_english_never_too_old_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160421_6min_english_never_too_old.pdf</PdfUrl>
@@ -1517,7 +1544,7 @@
 <Title>Do you think for yourself?</Title>
 <Keynote>Do you always agree with what most people in your group say? Neil and Sophie discuss staff meetings.</Keynote>
 <Episode>Episode 160414 / 14 Apr 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160414</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160414</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03jrbg3.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160414_6min_english_groupthink_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160414_6min_english_groupthink.pdf</PdfUrl>
@@ -1526,7 +1553,7 @@
 <Title>Brain training</Title>
 <Keynote>Neil and Sophie discuss the health benefits of being able to speak two languages fluently. And Neil... speaks Japanese!</Keynote>
 <Episode>Episode 160407 / 07 Apr 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160407</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160407</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03jrb9t.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160407_6min_english_brain_training_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160407_6min_english_brain_training.pdf</PdfUrl>
@@ -1535,7 +1562,7 @@
 <Title>Is social media a distraction?</Title>
 <Keynote>How often do you check your phone? Neil and Sophie discuss how social media is changing the way we interact.</Keynote>
 <Episode>Episode 160331 / 31 Mar 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160331</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160331</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03jrb2d.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160331_6min_english_social_media_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160331_6min_english_social_media.pdf</PdfUrl>
@@ -1544,7 +1571,7 @@
 <Title>Gardening</Title>
 <Keynote>Sophie and Neil discover that soil has some surprising qualities and discuss how growing food can be therapeutic too</Keynote>
 <Episode>Episode 160324 / 24 Mar 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160324</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160324</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03jr9ly.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160324_6min_english_gardening_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160324_6min_english_gardening.pdf</PdfUrl>
@@ -1553,7 +1580,7 @@
 <Title>What's in a fairy tale?</Title>
 <Keynote>Sophie and Neil talk about traditional fairy tales for the adult market and teach you some magical vocabulary</Keynote>
 <Episode>Episode 160317 / 17 Mar 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160317</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160317</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03jr9dq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160317_6min_english_fairy_tales_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160317_6min_english_fairy_tales.pdf</PdfUrl>
@@ -1562,7 +1589,7 @@
 <Title>Corporate team building</Title>
 <Keynote>Neil and Sophie discuss the growing industry of team building – from zombie bootcamps to horse training for executives.</Keynote>
 <Episode>Episode 160310 / 10 Mar 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160310</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160310</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03jm556.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160310_6min_english_team_building_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160310_6min_english_team_building.pdf</PdfUrl>
@@ -1571,7 +1598,7 @@
 <Title>Life on Mars</Title>
 <Keynote>Neil and Sophie discuss Mars, the fourth rock from the Sun</Keynote>
 <Episode>Episode 160303 / 03 Mar 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160303</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160303</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03j634b.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160303_6min_english_mars_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160303_6min_english_mars.pdf</PdfUrl>
@@ -1580,7 +1607,7 @@
 <Title>It's all in the genes</Title>
 <Keynote>Neil and Sophie talk about gene editing, designer babies and how many errors Neil might have in his genetic code.</Keynote>
 <Episode>Episode 160225 / 25 Feb 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160225</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160225</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03j62z6.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160225_6min_english_gene_editing_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160225_6min_english_gene_editing.pdf</PdfUrl>
@@ -1589,7 +1616,7 @@
 <Title>Giving away your fortune</Title>
 <Keynote>How generous are you? Neil and Sophie discuss Mark Zuckerberg and what it takes to be a modern-day philanthropist.</Keynote>
 <Episode>Episode 160218 / 18 Feb 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160218</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160218</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03j10zh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160218_6min_english_giveaway_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160218_6min_english_giveaway.pdf</PdfUrl>
@@ -1598,7 +1625,7 @@
 <Title>How would you like to pay?</Title>
 <Keynote>Are the days of paying by cash for a latte or a newspaper nearly gone? Alice and Neil discuss Neil's fondness for loose change...</Keynote>
 <Episode>Episode 160211 / 11 Feb 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160211</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160211</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03f9nxs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160211_6min_english_payments_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160211_6min_english_payments.pdf</PdfUrl>
@@ -1607,7 +1634,7 @@
 <Title>How do you like your tea?</Title>
 <Keynote>Tea comes in different forms – milky, sweet or spicy. Alice and Neil discuss how this Asian leaf conquered the world.</Keynote>
 <Episode>Episode 160204 / 04 Feb 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160204</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160204</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03dl8g2.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160204_6min_english_tea_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160204_6min_english_tea.pdf</PdfUrl>
@@ -1616,7 +1643,7 @@
 <Title>The commute</Title>
 <Keynote>Train, car, bicycle ... Hundreds of millions of us make the same journey day in day out. Take a hike with Alice and Neil and learn new vocabulary.</Keynote>
 <Episode>Episode 160128 / 28 Jan 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160128</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160128</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03dl8c1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160128_6min_english_commute_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160128_6min_english_commute.pdf</PdfUrl>
@@ -1625,7 +1652,7 @@
 <Title>Are we afraid of food?</Title>
 <Keynote>Are food allergies on the increase and if so, why? Neil and Alice talk about the growing fear of food and teach new words.</Keynote>
 <Episode>Episode 160121 / 21 Jan 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160121</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160121</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03dlbcm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160121_6min_english_food_allergies_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160121_6min_english_food_allergies.pdf</PdfUrl>
@@ -1634,7 +1661,7 @@
 <Title>Is modern life making us tired?</Title>
 <Keynote>Are artificial lights and late night TV ruining our sleep? Neil and Alice discuss the issue and teach you related vocabulary.</Keynote>
 <Episode>Episode 160114 / 14 Jan 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160114</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160114</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03dl831.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160114_6min_english_sleep_deprivation_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160114_6min_english_sleep_deprivation.pdf</PdfUrl>
@@ -1643,7 +1670,7 @@
 <Title>Asking the right questions</Title>
 <Keynote>What does it take to be a good interviewer? Neil and Alice discuss TV chat show hosts and teach you some related vocabulary.</Keynote>
 <Episode>Episode 160107 / 07 Jan 2016</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-160107</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160107</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03cs6n6.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host.pdf</PdfUrl>
@@ -1652,7 +1679,7 @@
 <Title>The way we look</Title>
 <Keynote>How much does appearance really matter? Neil and Alice discuss fitness and New Year's resolutions</Keynote>
 <Episode>Episode 151231 / 31 Dec 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151231</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151231</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03cs5vr.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151231_6min_english_appearance_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151231_6min_english_appearance.pdf</PdfUrl>
@@ -1661,7 +1688,7 @@
 <Title>Christmas kindness</Title>
 <Keynote>Some families struggle to buy even food and can’t afford presents. Neil and Alice discuss how some charities are helping those in need.</Keynote>
 <Episode>Episode 151224 / 24 Dec 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151224</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151224</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03bw2jc.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151224_6min_english_christmas_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151224_6min_english_christmas.pdf</PdfUrl>
@@ -1670,7 +1697,7 @@
 <Title>Why do we take risks?</Title>
 <Keynote>Alice and Finn talk about the passion some people have for danger and the unseen threats we face every day</Keynote>
 <Episode>Episode 151217 / 17 Dec 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151217</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151217</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p039d5fs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151217_6min_english_taking_risks_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151217_6min_english_taking_risks.pdf</PdfUrl>
@@ -1679,7 +1706,7 @@
 <Title>Is student life all good?</Title>
 <Keynote>Alice and Neil discuss the psychological pressures of going to university. They also teach some related vocabulary.</Keynote>
 <Episode>Episode 151210 / 10 Dec 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151210</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151210</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p037w11r.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151210_6min_english_university_life_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151210_6min_english_university_life.pdf</PdfUrl>
@@ -1688,7 +1715,7 @@
 <Title>Robin Hood</Title>
 <Keynote>Neil and Alice discuss the long-lasting appeal of this man with a bow and how he has changed over the centuries</Keynote>
 <Episode>Episode 151203 / 03 Dec 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151203</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151203</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p037ny07.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151203_6min_english_robin_hood_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151203_6min_english_robin_hood.pdf</PdfUrl>
@@ -1697,7 +1724,7 @@
 <Title>How much is your spouse worth?</Title>
 <Keynote>Do you know how much your partner earns? Is he or she in debt? Would this make you love them less?</Keynote>
 <Episode>Episode 151126 / 26 Nov 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151126</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151126</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p037ljv4.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151119_6min_english_couples_finances_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151119_6min_english_couples_finances.pdf</PdfUrl>
@@ -1706,7 +1733,7 @@
 <Title>100 Women</Title>
 <Keynote>The BBC broadcasts a season of programmes discussing women's issues around the world</Keynote>
 <Episode>Episode 151119 / 19 Nov 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151119</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151119</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0386h92.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151119_6min_english_100_women_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151119_6min_english_100_women.pdf</PdfUrl>
@@ -1715,7 +1742,7 @@
 <Title>What makes us laugh?</Title>
 <Keynote>Are you good at telling jokes? What makes a good comedian?</Keynote>
 <Episode>Episode 151112 / 12 Nov 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151112</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151112</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0376s0m.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151112_6min_english_comedy_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151112_6min_english_comedy.pdf</PdfUrl>
@@ -1724,7 +1751,7 @@
 <Title>The impact of plastic</Title>
 <Keynote>Should we all pay for supermarket plastic bags? Neil and Alice take a look at the environmental impact of plastic and teach you some related words.</Keynote>
 <Episode>Episode 151105 / 05 Nov 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151105</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151105</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p036h8yt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151105_6min_english_plastic_bags_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151105_6min_english_plastic_bags.pdf</PdfUrl>
@@ -1733,7 +1760,7 @@
 <Title>Shakespeare in plain English</Title>
 <Keynote>Should the difficult language of Shakespeare be 'translated' into plain English?</Keynote>
 <Episode>Episode 151029 / 29 Oct 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151029</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151029</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p036cwhd.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151029_6min_english_shakespeare_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151029_6min_english_shakespeare.pdf</PdfUrl>
@@ -1742,7 +1769,7 @@
 <Title>New transport on two wheels</Title>
 <Keynote>The bicycle is the most popular form of two-wheeled transport in the world, but could we all soon be using hoverboards? Listen to Neil and Finn's conversation and learn some new words.</Keynote>
 <Episode>Episode 151022 / 22 Oct 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151022</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151022</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p035njgm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151022_6min_english_hoverboards_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151022_6min_english_hoverboard.pdf</PdfUrl>
@@ -1751,7 +1778,7 @@
 <Title>Will robots take our jobs?</Title>
 <Keynote>If you are sitting at a desk or answering the phone, stop for a moment and ask: could a robot or machine do this job better? Neil and Finn discuss the future of our jobs.</Keynote>
 <Episode>Episode 151015 / 15 Oct 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151015</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151015</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0350km1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151015_6min_english_robots_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151015_6min_english_robots.pdf</PdfUrl>
@@ -1760,7 +1787,7 @@
 <Title>Do we read to show off?</Title>
 <Keynote>Neil and Alice discuss what kind of book people like to be seen reading. Do you like to impress people with a classic book in your hands?</Keynote>
 <Episode>Episode 151008 / 08 Oct 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151008</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151008</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0345ddb.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151008_6min_eng_show_off_with_books_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151008_6min_eng_show_off_with_books.pdf</PdfUrl>
@@ -1769,7 +1796,7 @@
 <Title>Summer-born kids</Title>
 <Keynote>Does being born in the summer reduce your chance of going to university?</Keynote>
 <Episode>Episode 151001 / 01 Oct 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-151001</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-151001</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p03394h5.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/151001_6min_english_summer_kids_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/151001_6min_english_summer_kids.pdf</PdfUrl>
@@ -1778,7 +1805,7 @@
 <Title>The Earth's core</Title>
 <Keynote>Take a trip with Rob and Alice to find out about the Earth’s core. They’ll discuss how hot it is – and whether there are any dinosaurs living there!</Keynote>
 <Episode>Episode 150924 / 24 Sep 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150924</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150924</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02zb4s2.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150924_bbc_6min_english_earths_core_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150924_bbc_6min_english_earths_core.pdf</PdfUrl>
@@ -1787,7 +1814,7 @@
 <Title>The meaning of clothes</Title>
 <Keynote>Do you dress formally or casually? Do you choose trendy items or old comfortable ones? Rob and Will talk about the meaning of clothes.</Keynote>
 <Episode>Episode 150917 / 17 Sep 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150917</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150917</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02zb145.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150917_bbc_6min_english_the_meaning_of_clothes_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150917_bbc_6min_english_the_meaning_of_clothes.pdf</PdfUrl>
@@ -1796,7 +1823,7 @@
 <Title>The Proms</Title>
 <Keynote>It's been described as the world's largest and most democratic classical music festival. Neil and Finn guide you through the BBC Proms</Keynote>
 <Episode>Episode 150910 / 10 Sep 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150910</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150910</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p031y7bc.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150910_6min_english_proms_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150910_6min_english_proms.pdf</PdfUrl>
@@ -1805,7 +1832,7 @@
 <Title>Is knuckle cracking good for you?</Title>
 <Keynote>What an awful sound - cracking your knuckles! Listen in to Rob and Neil to find out if it's a useful skill or just an annoying habit</Keynote>
 <Episode>Episode 150903 / 03 Sep 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150903</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150903</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02y8xfm.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150903_6min_english_cracking_knuckles_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150903_6min_english_cracking_knuckles.pdf</PdfUrl>
@@ -1814,7 +1841,7 @@
 <Title>Evolution before Darwin</Title>
 <Keynote>Was Charles Darwin the only man with ideas about evolution? Rob and Neil talk about someone else who discovered it first.</Keynote>
 <Episode>Episode 150827 / 27 Aug 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150827</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150827</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02y8x25.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150827_6min_english_evolution_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150827_6min_english_evolution.pdf</PdfUrl>
@@ -1823,7 +1850,7 @@
 <Title>Lifts</Title>
 <Keynote>What are the modern day dilemmas in using a lift? Rob and Neil discuss the awkwardness and irritation of being in one</Keynote>
 <Episode>Episode 150820 / 20 Aug 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150820</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150820</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02x5d91.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150820_bbc_6min_english_lifts_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150820_bbc_6min_english_lifts.pdf</PdfUrl>
@@ -1832,7 +1859,7 @@
 <Title>Compulsory voting</Title>
 <Keynote>Should young people be made to vote in elections or should we choose? We discuss the ideas behind compulsory voting</Keynote>
 <Episode>Episode 150813 / 13 Aug 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150813</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150813</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02x4tfs.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150813_bbc_6min_english_voting_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150813_bbc_6min_english_voting.pdf</PdfUrl>
@@ -1841,7 +1868,7 @@
 <Title>Chins</Title>
 <Keynote>What do we need our chins for? Rob and Neil discuss how we got them and what our chins say about us</Keynote>
 <Episode>Episode 150806 / 08 Aug 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150806</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150806</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02x4ngc.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150806_6min_english_chins_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150806_6min_english_chins.pdf</PdfUrl>
@@ -1850,7 +1877,7 @@
 <Title>Why do gibbons sing duets?</Title>
 <Keynote>Why do gibbons sing duets and what has this got to do with the evolution of the human language?</Keynote>
 <Episode>Episode 150730 / 30 Jul 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150730</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150730</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02x5cwh.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150730_bbc_6min_english_gibbons_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150730_bbc_6min_english_gibbons.pdf</PdfUrl>
@@ -1859,7 +1886,7 @@
 <Title>Are models too skinny?</Title>
 <Keynote>Skinny models: What does the law say about walking the catwalk?</Keynote>
 <Episode>Episode 150723 / 23 Jul 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150723</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150723</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02vgypq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150723_6min_english_skinny_models_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150723_6min_english_skinny_models.pdf</PdfUrl>
@@ -1868,7 +1895,7 @@
 <Title>Is a game just a game?</Title>
 <Keynote>The dangers of computer games. How good are they for our health?</Keynote>
 <Episode>Episode 150716 / 16 Jul 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150716</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150716</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02vdwpq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150716_6min_english_computer_games_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150716_6min_english_computer_games.pdf</PdfUrl>
@@ -1877,7 +1904,7 @@
 <Title>The wonder of blood</Title>
 <Keynote>It's amazing! What part of our body have scientists discovered can heal and help us?</Keynote>
 <Episode>Episode 150709 / 09 Jul 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150709</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150709</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02tzxgq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150709_6min_english_blood_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150709_6min_english_blood.pdf</PdfUrl>
@@ -1886,7 +1913,7 @@
 <Title>Why did Singapore ban gum?</Title>
 <Keynote>Do you chew gum and what do you do with it when you've finished? Listen to Rob and Finn discussing the history and chemical properties of gum and why it's messing up our streets whilst explaining some related vocabulary</Keynote>
 <Episode>Episode 150702 / 02 Jul 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150702</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150702</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02ty9v8.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150702_6min_english_chewing_gum_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150702_6min_english_chewing_gum.pdf</PdfUrl>
@@ -1895,7 +1922,7 @@
 <Title>Food banks</Title>
 <Keynote>Food banks provide food to people in the UK who can't afford to buy their own. Rob and Finn discuss this how they work and how they help many of the country's poorest</Keynote>
 <Episode>Episode 150625 / 25 Jun 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150625</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150625</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02txtl5.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150625_6min_english_food_banks_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150625_6min_english_food_banks.pdf</PdfUrl>
@@ -1904,7 +1931,7 @@
 <Title>The teenage brain</Title>
 <Keynote>Listen to Neil and Rob discussing mood swings, risk taking, and why people make fun of teenagers, while they also explore some related vocabulary.</Keynote>
 <Episode>Episode 150618 / 18 Jun 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150618</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150618</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02s7jdb.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150618_6min_english_teenage_brain_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150618_6min_english_teenage_brain.pdf</PdfUrl>
@@ -1913,7 +1940,7 @@
 <Title>The Outernet</Title>
 <Keynote>How can remote parts of the world get access to the internet? Neil and Catherine discuss a new idea for spreading knowledge</Keynote>
 <Episode>Episode 150611 / 11 Jun 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150611</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150611</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02srl1x.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150611_6min_english_outernet_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150611_6min_english_outernet.pdf</PdfUrl>
@@ -1922,7 +1949,7 @@
 <Title>Is aggression useful?</Title>
 <Keynote>What makes us angry and why is aggression useful? Neil and Catherine discuss human behaviour.</Keynote>
 <Episode>Episode 150604 / 04 Jun 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150604</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150604</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02rzltb.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150604_6min_english_aggression_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150604_6_min_english_aggression.pdf</PdfUrl>
@@ -1931,7 +1958,7 @@
 <Title>Are beards back to stay?</Title>
 <Keynote>Big bushy beards have become so fashionable that there's now an art exhibition dedicated to them</Keynote>
 <Episode>Episode 150528 / 28 May 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150528</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150528</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02q8pj1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150528_6min_english_beards_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150528_6min_english_beards.pdf</PdfUrl>
@@ -1940,7 +1967,7 @@
 <Title>Is a door just a door?</Title>
 <Keynote>A London apartment block has front and back entrances for private and social housing - or so-called rich and poor doors. Does it make sense to you? Listen to a discussion whilst learning some housing-related vocabulary</Keynote>
 <Episode>Episode 150521 / 21 May 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150521</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150521</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02q5tmw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150521_6min_english_poor_doors_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150521_6min_english_poor_doors.pdf</PdfUrl>
@@ -1949,277 +1976,277 @@
 <Title>The first space walk</Title>
 <Keynote>Fifty years ago, on 18 March 1965, Soviet astronaut Alexei Leonov took the first space walk. Listen to Rob and Neil describing the struggles of that ground-breaking space mission whilst explaining some related vocabulary.</Keynote>
 <Episode>Episode 150514 / 14 May 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150514</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150514</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02pwzyt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150514_6min_space_walk_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150514_6min_space_walk.pdf</PdfUrl>
 </EpisodeId>
 <EpisodeId id="34">
+<Title>The bitter taste of sugar</Title>
+<Keynote>Should we eat less sugar? Listen to Rob and Neil and learn new vocabulary</Keynote>
+<Episode>Episode 141023 / 23 Oct 2014</Episode>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-23102014</LessonUrl>
+<ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0282nl5.jpg</ImgUrl>
+<Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/6min_sugar_audio_download.mp3</Mp3Url>
+<PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141023_6mineng_sugar.pdf</PdfUrl>
+</EpisodeId>
+<EpisodeId id="33">
 <Title>Wireless furniture for phones</Title>
 <Keynote>Furniture with built-in wireless charging technology - like a coffee table is now being sold. 'Built-in' means the technology is included as part of the table. So you just pop your phone on the table, and technology does the rest!</Keynote>
 <Episode>Episode 150507 / 07 May 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150507</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150507</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02px00f.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150507_6min_wireless_furniture_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150507_6min_wireless_furniture.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="33">
+<EpisodeId id="32">
 <Title>Saving China's elephants</Title>
 <Keynote>Many animals face extinction. But people are realising that they must act now to stop further losses. A scheme to save the Asian elephant in China could provide an answer.</Keynote>
 <Episode>Episode 150430 / 30 Apr 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150430</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150430</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02lrkxy.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150430_6min_english_elephants_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150430_6min_english_elephants.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="32">
+<EpisodeId id="31">
 <Title>Life without music</Title>
 <Keynote>How does music make you feel? Research shows that it actually influences us more than we realise - whether we're at the movies, the supermarket, or down the pub</Keynote>
 <Episode>Episode 150423 / 23 Apr 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150423</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150423</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02ns4sv.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150423_6min_english_music_download.mp3</Mp3Url>
 <PdfUrl/>
 </EpisodeId>
-<EpisodeId id="31">
+<EpisodeId id="30">
 <Title>The story behind coffee</Title>
 <Keynote>Coffee is now the most popular drink in the world. But what about the economics and politics of coffee production? It's as complicated as getting the right flavour in your cup</Keynote>
 <Episode>Episode 150416 / 16 Apr 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150416</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150416</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02nrdbx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150416_6min_english_coffee_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150416_6min_english_coffee.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="30">
+<EpisodeId id="29">
 <Title>The sun</Title>
 <Keynote>Rob and Neil put on their sunglasses to find out more about this special star and teach some related vocabulary. We promise you won’t be blinded with science!</Keynote>
 <Episode>Episode 150409 / 09 Apr 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150409</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150409</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02n4yn5.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150409_6min_english_the_sun_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150409_6_min_english_the_sun.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="29">
+<EpisodeId id="28">
 <Title>The three-parent baby</Title>
 <Keynote>The UK has become the first country to approve legislation allowing the creation of babies with genetic material from three people. Listen to Neil and Harry’s conversation and learn some related vocabulary.</Keynote>
 <Episode>Episode 150402 / 02 Apr 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150402</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150402</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02n12gb.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150402_6min_english_3parents_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150402_6min_english_3parents.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="28">
+<EpisodeId id="27">
 <Title>A threat to London's artwork?</Title>
 <Keynote>What are some art galleries banning to protect their paintings? Find out with Neil and Harry</Keynote>
 <Episode>Episode 150326 / 26 Mar 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150326</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150326</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02m478r.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150326_6min_english_selfie_stick_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150326_6min_english_selfie_stick.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="27">
+<EpisodeId id="26">
 <Title>Human microchips</Title>
 <Keynote>An electronic device under your skin?! Workers in Sweden take part in experiment which allows them to get in and out of their office without a key, ID or password. Listen to Neil and Harry’s chat and learn some related vocabulary.</Keynote>
 <Episode>Episode 150319 / 19 Mar 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150319</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150319</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02m9qcv.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150319_6min_eng_human_microchip_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150319_6min_english_human_microchip.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="26">
+<EpisodeId id="25">
 <Title>The two sides of Churchill</Title>
 <Keynote>This year marks the 50th anniversary of Winston Churchill’s death. He is known throughout the world for his role in defeating Nazi Germany but he also made mistakes. Listen to Neil and Mike’s discussion, and learn new vocabulary.</Keynote>
 <Episode>Episode 150312 / 12 Mar 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150312</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150312</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02hwwbw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150312_6min_churchill_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150312_6min_churchill.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="25">
+<EpisodeId id="24">
 <Title>Poverty in a rich world</Title>
 <Keynote>We live in a richer world. But the gap between rich and poor is still very wide in individual countries. How to change this? Listen to Rob and Harry’s discussion, and learn some related vocabulary.</Keynote>
 <Episode>Episode 150305 / 05 Mar 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150305</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150305</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02hv24g.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150305_6min_poverty_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150305_6min_poverty.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="24">
+<EpisodeId id="23">
 <Title>The cost of life-saving vaccines</Title>
 <Keynote>The price of vaccines has escalated and some poor countries are struggling to prevent children from catching certain life-threatening diseases, says Medecins Sans Frontieres. Listen to Rob and Neil’s discussion, and learn some related vocabulary.</Keynote>
 <Episode>Episode 150226 / 26 Feb 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150226</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150226</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02hthyx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150226_6min_vaccines_for_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150226_6min_vaccines.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="23">
+<EpisodeId id="22">
 <Title>Do you fear Artificial Intelligence?</Title>
 <Keynote>Will thinking computers be the end of humans? Listen to Rob and Neil’s chat and learn some related vocabulary.</Keynote>
 <Episode>Episode 150219 / 19 Feb 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150219</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150219</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02htfbw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150219_6min_artificial_intelligence_for_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150219_6min_artificial_intelligence.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="22">
+<EpisodeId id="21">
 <Title>Should tourists go to Antarctica?</Title>
 <Keynote>About 37,000 tourists are expected to visit Antarctica this season. But should they be going to a region with such a sensitive environment? Listen to Rob and Neil’s conversation and learn some new vocabulary.</Keynote>
 <Episode>Episode 150212 / 12 Feb 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150212</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150212</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02h9xtw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150212_6min_english_antarctica_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150212_6min_english_antartica.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="21">
+<EpisodeId id="20">
 <Title>Does your CV shine?</Title>
 <Keynote>At a time when more people compete for fewer jobs, are you sure you present your skills and abilities well to a potential employer? Listen to Rob and Neil's conversation and learn some related vocabulary.</Keynote>
 <Episode>Episode 150205 / 05 Feb 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150205</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150205</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02hpb6t.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150205_6min_jobseekers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150205_6min_jobseekers.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="20">
+<EpisodeId id="19">
 <Title>Are you big on small talk?</Title>
 <Keynote>Going to a party where you don't know anyone? Listen to Rob and Neil's advice and learn some related vocabulary</Keynote>
 <Episode>Episode 150129 / 29 Jan 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150129</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150129</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02hbyb0.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150129_6min_small_talk_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150129_6min_small_talk.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="19">
+<EpisodeId id="18">
 <Title>Are computers making us dumb?</Title>
 <Keynote>We use computers for everything nowadays. Are we forgetting our own abilities - and losing our talent? Listen to Rob and Neil's discussion, and learn some related vocabulary</Keynote>
 <Episode>Episode 150122 / 22 Jan 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/150122</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/150122</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02grskw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150122_6min_computers_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150122_6min_computers.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="18">
+<EpisodeId id="17">
 <Title>Smokers to face one more ban</Title>
 <Keynote>Smoking in cars with children might be banned in England. Listen to Neil and Rob's chat and learn some related vocabulary</Keynote>
 <Episode>Episode 150115 / 15 Jan 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150115</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150115</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02g26pc.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150115_6min_smoking_in_car_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150115_6min_smoking_in_car.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="17">
+<EpisodeId id="16">
 <Title>Bullying or normal competition?</Title>
 <Keynote>Is bullying just an attempt to give a bad name to what is part of human nature? Listen to Rob and Neil’s chat and learn some related vocabulary.</Keynote>
 <Episode>Episode 150108 / 08 Jan 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150108</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150108</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02fz09d.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150108_6min_bullying_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150108_6min_bullying.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="16">
+<EpisodeId id="15">
 <Title>Time capsules</Title>
 <Keynote>What would you put in your time capsule? Listen to Rob and Neil’s chat and learn new vocabulary</Keynote>
 <Episode>Episode 150101 / 01 Jan 2015</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-150101</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-150101</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02gcyv7.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/150101_6min_time_capsule_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/150101_6min_time_capsule.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="15">
+<EpisodeId id="14">
 <Title>The Christmas Truce</Title>
 <Keynote>When enemy soldiers sang together in WW1. Listen to Rob and Finn’s chat and learn some related vocabulary.</Keynote>
 <Episode>Episode 141225 / 25 Dec 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-141225</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-141225</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02blxtw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141225_6min_english_christmas_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141225_6min_english_christmas.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="14">
+<EpisodeId id="13">
 <Title>42 languages</Title>
 <Keynote>The London school where students speak 42 different languages</Keynote>
 <Episode>Episode 141218 / 18 Dec 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-141218</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-141218</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02fj0yt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141218_6min_42_languages_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141218_6min_42_languages.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="13">
+<EpisodeId id="12">
 <Title>Laughter is bad for you</Title>
 <Keynote>Laughter isn't always the best medicine, says research</Keynote>
 <Episode>Episode 141211 / 11 Dec 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-141211</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-141211</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p029hgtx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141211_6min_laughter_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141211_6mineng_laughter.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="12">
+<EpisodeId id="11">
 <Title>Cloud of suspicion</Title>
 <Keynote>Are your pictures, documents and videos safe online? Listen to Rob and Finn's chat and learn new vocabulary</Keynote>
 <Episode>Episode 141204 / 04 Dec 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-141204</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-141204</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02dglxx.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141204_6min_icloud_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141204_6min_icloud.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="11">
+<EpisodeId id="10">
 <Title>Sharing economy</Title>
 <Keynote>Nowhere to park? How the sharing economy is changing the way we use our space</Keynote>
 <Episode>Episode 141127 / 27 Nov 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-141127</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-141127</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0295r9v.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141127_6min_sharingeconomy_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141127_6min_sharing_economy.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="10">
+<EpisodeId id="9">
 <Title>Can science fiction save the world?</Title>
 <Keynote>How can science fiction help the world? Rob and Finn discuss a project which aims to inspire through stories of a bright future</Keynote>
 <Episode>Episode 141120 / 20 Nov 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-20112014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-20112014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02861qq.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141120_6min_science_fiction_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141120_6mineng_science_fiction.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="9">
+<EpisodeId id="8">
 <Title>Is eating meat killing our planet?</Title>
 <Keynote>Why is eating meat bad news?</Keynote>
 <Episode>Episode 141113 / 13 Nov 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-13112014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-13112014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0285y3n.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141113_6_minute_english_meat_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141113_6mineng_meat.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="8">
+<EpisodeId id="7">
 <Title>What makes a superhero?</Title>
 <Keynote>Do real-life superheroes exist or are they just cartoon characters?</Keynote>
 <Episode>Episode 141106 / 06 Nov 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-06112014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-06112014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p02858ps.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141106_6mineng_superheroes_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141106_6mineng_superheroes.pdf</PdfUrl>
 </EpisodeId>
-<EpisodeId id="7">
+<EpisodeId id="6">
 <Title>Cigarettes v e-cigarettes</Title>
 <Keynote>Rob and Finn discuss the World Health Organisation's recommendations on e-cigarettes</Keynote>
 <Episode>Episode 141030 / 30 Oct 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-30102014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-30102014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0283cf8.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141030_6_minute_english_ecigarettes_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141030_6min_ecigarettes.pdf</PdfUrl>
-</EpisodeId>
-<EpisodeId id="6">
-<Title>The bitter taste of sugar</Title>
-<Keynote>Should we eat less sugar? Listen to Rob and Neil and learn new vocabulary</Keynote>
-<Episode>Episode 141023 / 23 Oct 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-23102014</LessonUrl>
-<ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p0282nl5.jpg</ImgUrl>
-<Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/6min_sugar_audio_download.mp3</Mp3Url>
-<PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141023_6mineng_sugar.pdf</PdfUrl>
 </EpisodeId>
 <EpisodeId id="5">
 <Title>How quickly can you learn English?</Title>
 <Keynote>Is learning English getting easier? Find out what's new</Keynote>
 <Episode>Episode 141016 / 16 Oct 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-16102014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-16102014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p028s1s1.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/6_minute_english_learning_english_download_new.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141016_6mineng_learningenglish.pdf</PdfUrl>
@@ -2228,7 +2255,7 @@
 <Title>Food waste</Title>
 <Keynote>Why do we buy so much food and not eat it all? Learn more about food waste</Keynote>
 <Episode>Episode 141009 / 09 Oct 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-09102014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-09102014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p027b7nw.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141009_6_minute_english_food_waste_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141009_6_min_eng_food_waste.pdf</PdfUrl>
@@ -2237,7 +2264,7 @@
 <Title>Sleeping on the job</Title>
 <Keynote>Is it right to sleep at work? Rob and Finn discuss the benefits of sleeping on the job.</Keynote>
 <Episode>Episode 141002 / 02 Oct 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-02102014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-02102014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p026v1sc.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/141002_6_min_english_sleeping_download_new.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/141002_6_min_sleeping.pdf</PdfUrl>
@@ -2246,7 +2273,7 @@
 <Title>The fame game</Title>
 <Keynote>Is the way we see famous people a new thing? Learn about the first 'modern celebrity'.</Keynote>
 <Episode>Episode 140929 / 29 Sep 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-25092014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-25092014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p026r9h2.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/6mineng_famegame_fordownload.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/140925_6_min_celebrity.pdf</PdfUrl>
@@ -2255,7 +2282,7 @@
 <Title>Dealing with boredom</Title>
 <Keynote>Bored? You're not alone. Rob and Finn discuss how to deal with boredom and teach some related vocabulary. We promise you won't be bored!</Keynote>
 <Episode>Episode 140821 / 21 Aug 2014</Episode>
-<LessonUrl>http://127.0.0.1/learningenglish/english/features/6-minute-english/ep-21082014</LessonUrl>
+<LessonUrl>http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-21082014</LessonUrl>
 <ImgUrl>http://ichef.bbci.co.uk/images/ic/624xn/p025jpxt.jpg</ImgUrl>
 <Mp3Url>http://downloads.bbc.co.uk/learningenglish/features/6min/140821_6min_boredom_download.mp3</Mp3Url>
 <PdfUrl>http://downloads.bbc.co.uk/learningenglish/features/6min/140821_6min_dealing_with_boredom.pdf</PdfUrl>

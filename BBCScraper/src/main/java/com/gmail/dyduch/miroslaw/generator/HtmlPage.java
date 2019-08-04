@@ -186,7 +186,7 @@ public class HtmlPage {
 				table(attrs(".xmlTable"),
 				td(a("Plik XML").withHref("myfile.xml").withTitle("Plik XML do pobrania")),
 				td(a("Plik DTD").withHref("myfile.dtd")
-						.withTitle("Plik DTD do pobrania"))),
+						.withTitle("Plik DTD do pobrania")),td(a("GitHub").withHref("https://github.com/dydko1/Scraper-6-Minute-English").withTitle("Repozytorium GitHub"))),
 				p("Created by Mirosław Dyduch"),
 				address(a("Contact information: ").withHref(
 						"mailto:Miroslaw.Dyduch@gmail.com").withText(
