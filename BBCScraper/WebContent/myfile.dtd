@@ -1,0 +1,43 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT BBC-6-minute-english (EpisodeId)+>
+<!ATTLIST BBC-6-minute-english
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT EpisodeId (Title,Keynote,Episode,LessonUrl,ImgUrl,Mp3Url,
+                     PdfUrl,Ts)>
+<!ATTLIST EpisodeId
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED>
+
+<!ELEMENT Title (#PCDATA)>
+<!ATTLIST Title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Keynote (#PCDATA)>
+<!ATTLIST Keynote
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Episode (#PCDATA)>
+<!ATTLIST Episode
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT LessonUrl (#PCDATA)>
+<!ATTLIST LessonUrl
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ImgUrl (#PCDATA)>
+<!ATTLIST ImgUrl
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Mp3Url (#PCDATA)>
+<!ATTLIST Mp3Url
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PdfUrl (#PCDATA)>
+<!ATTLIST PdfUrl
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Ts (#PCDATA)>
+<!ATTLIST Ts
+  xmlns CDATA #FIXED ''>
