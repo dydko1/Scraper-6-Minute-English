@@ -25,7 +25,7 @@ public class MainAPP {
 
 		db.create();
 		// db.select(); // wyciaga select na db
-		Scraper sc = new Scraper("http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/");
+		Scraper sc = new Scraper(); //("http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/");
 
 		sc.getSubPage();
 		db.insert(sc.getQuery()); // pobiera cale tablice scrapowana w formacie do wstawienia w DB (x,y,x) 
