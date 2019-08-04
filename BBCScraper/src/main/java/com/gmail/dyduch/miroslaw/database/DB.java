@@ -89,13 +89,13 @@ public class DB {
 			// "jdbc:mysql://127.0.0.1:3306/blog";
 			this.JDBC_DRIVER = "com.mysql.jdbc.Driver";
 			this.DB_URL = "jdbc:mysql://mysql.agh.edu.pl/midyduch"; // ?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
-			this.USER = "midyduch";
-			this.PASS = "8eCkauXZNdPGGfvE";
+			this.USER = "user";
+			this.PASS = "password";
 		} else if (this.dbmsType.equals("PostgreSQL") && !isParameters) {
 			this.JDBC_DRIVER = "org.postgresql.Driver";
 			this.DB_URL = "jdbc:postgresql://localhost:5432/miro";
-			this.USER = "postgres";
-			this.PASS = "mirdyd12345";
+			this.USER = "user";
+			this.PASS = "**password**";
 		} else
 			System.out.println(this.dbmsType
 					+ " wcześniej ustawiona danymi użytkownika. -:]" + "\n");
