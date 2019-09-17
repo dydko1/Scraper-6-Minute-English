@@ -1,1 +1,3 @@
-static/* linguist-vendored
+# .gitattributes file which reclassifies `.js` files as Java:
+*.js linguist-language=Java
+*.html linguist-language=Java
