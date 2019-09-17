@@ -1,4 +1,4 @@
 # .gitattributes file which reclassifies `.js` files as Java:
 *.java linguist-language=Java
-*.html linguist-language=html
+*.html linguist-language=Java
 *.css linguist-language=css
