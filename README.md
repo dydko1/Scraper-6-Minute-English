@@ -3,7 +3,7 @@
 Program has created to passed out subject "technicas and internet languages".
 Scraper cooperate with H2SQL, MySQL, PostgreSQL.
 Aplication use Jsoup do parsing pages. 
-J2html create out page as one page with picture, mp3, pdf and css (link below).
+J2html generate out page as one page with pictures, mp3, pdf and css (link below).
 
 http://www.dydko1.cba.pl/
 
