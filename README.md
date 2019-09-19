@@ -1,9 +1,6 @@
 
 # Scraper "BBC 6 Minute English" 
-Program was created to passed out subject "technicas and intenrt language".
-How wrtite readme ? Only test
+Program has created to passed out subject "technicas and internet languages".
 
 ## Installation
-
-
-Readme will be added.
+Run main program.
